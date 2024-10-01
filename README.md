@@ -1,5 +1,6 @@
 ## Github stats
 
+## Coding profiles
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=bhaveshlalwani05&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/bhaveshlalwani05)
 
 <!--
