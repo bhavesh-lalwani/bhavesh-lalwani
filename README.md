@@ -1,6 +1,6 @@
 ## Github stats
-[# BhaveshLalwani-README](https://codeforces-readme-stats.vercel.app/api/card?username=bhaveshlalwani05
-)
+
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=bhaveshlalwani05&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/bhaveshlalwani05)
 
 <!--
 **bhavesh-lalwani/bhavesh-lalwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
